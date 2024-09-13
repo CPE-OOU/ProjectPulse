@@ -3,12 +3,12 @@
 This repository contains the code and resources for my final year project as a computer engineering student at Olabisi Onabanjo University
 
 ## Project Details
-Project Title: Development of a web repository application with customized chatbot
-Student Name: Alayki Temitope Omolayo
-Matric Number: EES/19/20/0148
-Student Name: Jehoiakim Vincent Emmanuel
-Matric Number: EES/20/21/0213
-University: Olabisi Onabanjo University
+- Project Title: Development of a web repository application with customized chatbot
+- Student Name: Alayki Temitope Omolayo
+- Matric Number: EES/19/20/0148
+- Student Name: Jehoiakim Vincent Emmanuel
+- Matric Number: EES/20/21/0213
+- University: Olabisi Onabanjo University
 
 
 ## Project Overview
@@ -52,7 +52,11 @@ This repository hosts a web application that integrates a Python-based customize
 - `app.py`: Chatbot server that provides route API to link to the web.
 - `/dataset`: Collected information to run the chatbot.
 
-## Setup Instructions
+## Setup Instruction
+To get started with the project, follow these steps:
+- 1. Clone the repository to your local machine.
+  2. install necessary prerequsites and dependencies
+  3. follow setup instruction 
 
 ### Prerequisites
 
@@ -78,7 +82,7 @@ npm install --save-dev tailwindcss postcss autoprefixer
 npm install express
 ```
 
-### Frontend Setup
+### Frontend Setup instruction
 
 1. Navigate to the frontend directory:
     ```bash
@@ -92,7 +96,7 @@ npm install express
 
 3. The application will be accessible at `http://localhost:5173`.
 
-### Backend Setup
+### Backend Setup instruction
 
 1. Navigate to the backend directory:
     ```bash
@@ -106,7 +110,7 @@ npm install express
 
 3. The API will be accessible at `http://localhost:5000`.
 
-### Python Chatbot Setup
+### Python Chatbot Setup instruction
 
 1. Navigate to the chatbot directory:
     ```bash
@@ -137,7 +141,7 @@ npm install express
 
 ## Integration
 
-The frontend React application communicates with the backend Express server via RESTful API endpoints. The backend interacts with the Python chatbot for processing and retrieving project papers.
+The frontend React application communicates with the backend Express server via RESTful API endpoints. The frontend interacts with the Python chatbot for retrieving  information about the department.
 
 ### API Endpoints
 
@@ -154,11 +158,3 @@ The frontend React application communicates with the backend Express server via 
 ## Contributing
 
 Contributions are welcome! Please follow the guidelines provided in the `CONTRIBUTING.md` file (if available) for submitting issues and pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Feel free to adjust any details to better fit your project or organization’s needs!
