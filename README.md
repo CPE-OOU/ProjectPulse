@@ -1,4 +1,14 @@
-# Web Application with Customized Chatbot
+# Web Application with Customized Chatbot (ProjectPulse
+
+This repository contains the code and resources for my final year project as a computer engineering student at Olabisi Onabanjo University
+
+## Project Details
+Project Title: Development of a web repository application with customized chatbot
+Student Name: Alayki Temitope Omolayo
+Matric Number: EES/19/20/0148
+Student Name: Jehoiakim Vincent Emmanuel
+Matric Number: EES/20/21/0213
+University: Olabisi Onabanjo University
 
 
 ## Project Overview
