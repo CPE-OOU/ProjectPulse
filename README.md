@@ -1,4 +1,4 @@
-# Web Application with Customized Chatbot (ProjectPulse
+# Web Application with Customized Chatbot (ProjectPulse)
 
 This repository contains the code and resources for my final year project as a computer engineering student at Olabisi Onabanjo University
 
